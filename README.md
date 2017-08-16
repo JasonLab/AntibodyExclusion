@@ -3,6 +3,8 @@ Given a database of Antibody Panels it can provide cells that are adequate given
 
 Guide to adding your own Screening Cells.
 
+The easy way is just entering your data into the TMQ dictionnaries already there. I recommend this method. 
+
 Step 1
 
 Creating a dictionnary with your cell. Name it something like the Panel then cell number like VRA257_1
